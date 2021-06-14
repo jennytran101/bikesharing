@@ -16,10 +16,10 @@
 ![Location](resources/location.png)
 
 ## 4. Trip Duration
-![Duaration](resources/trip_duaration.png)
+![Duration](resources/trip_duration.png)
 
 ## 5. Trip Duration with gender:
-![Duaration_gender](resources/trip_duration_genders.png)
+![Duration_gender](resources/trip_duration_genders.png)
 
 ##  6. Stop time:
 ![stoptime](resources/stoptime.png)
