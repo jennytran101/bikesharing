@@ -35,6 +35,8 @@
 
 
 # Summary:
+After analyzing, Citibike has provided more than 2 has provided more than 2 million rides during the time period. It cover 80% of the customers. The majority length of each trip is less than 30 minutes. There is a suggestion to the analyze is they should analyze based on the customer age so the company can provide the bike for bikes that are suitable for all ages as well as expanding the customer market. 
+
 
 
 
